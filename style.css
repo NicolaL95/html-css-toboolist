@@ -1,18 +1,33 @@
 body{
     background-color: #F6F8F9;
+    margin: 0;
+   
 }
 
-.logo{
+
+#logo{
     font-size: 5ex;
     background-color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 1000;
+    padding-top: 5px;
 }
-#main{
+
+.nome_logo{
+    vertical-align: super
+}
+#site_main{
     background-color: white;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px 30px 60px;
+    max-width: 1000px;
+
 }
 .righe{
     background-color: #F6F8F9;
+    margin-left:-100px;
 }
 
 .menu{
@@ -118,9 +133,11 @@ body{
     background-color: white;
     color: #C7CDD1;
     border-color:#D2D7DB;
-    border-style: 1px 1px ridge;
+    border: 1px solid grey;
     border-radius: 5px;
     width: 90px;
     height: 25px; }
 
-    
+.righe{
+    border: 1px solid #F6F8F9;
+}
