@@ -5,8 +5,8 @@ body{
 .logo{
     font-size: 5ex;
     background-color: white;
-   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   font-weight: 1000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
 }
 #main{
     background-color: white;
@@ -15,3 +15,58 @@ body{
     background-color: #F6F8F9;
 }
 
+.menu{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+.font{
+    font-size: 1.0rem; 
+}
+.check{
+    color : #A6DDD1;
+}
+
+.blubox{
+    background-color: #45ABEA;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 15px;
+    padding: 0.4rem  0.5rem 0.4rem ;
+}
+.viobox{
+    background-color: #9C72E4;
+    color: white;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    padding: 0.2rem  0.3rem 0.2rem ;
+}
+
+.grebox{
+    background-color: #64C0A9;
+    color: white;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    padding: 0.2rem  0.3rem 0.2rem ;
+}
+.orabox{
+    background-color: #F29E33;
+    color: white;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    padding: 0.2rem  0.3rem 0.2rem ;
+}
+.pinbox{
+    background-color: #D863A1;
+    color: white;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    padding: 0.2rem  0.3rem 0.2rem ;
+}
+.lgrbox{
+    background-color: #B0C926;
+    color: white;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    padding: 0.2rem  0.3rem 0.2rem ;
+}
