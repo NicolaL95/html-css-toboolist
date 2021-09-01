@@ -1,0 +1,10 @@
+body{
+    background-color: #F6F8F9;
+}
+
+.logo{
+    font-size: 5ex;
+    background-color: white;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-weight: 1000;
+}
